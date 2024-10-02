@@ -14,13 +14,13 @@ construido com codigos HTMl
 -meios de comunicação
 
 *FORAM USADOS COMANDOS
-<body>
-<div>
-<h>
-<nav>
-<ul>
-<li>
-<a>
+body
+div
+h
+nav
+ul
+li
+a
 que foram repetidos muitas vezes.
 
 *O CODIGO PODE SER ADAPTADO PARA VARIAS FUNÇÕES COMO:
@@ -32,7 +32,7 @@ que foram repetidos muitas vezes.
 -n°: 46 994112332
 -facebook
 -instagram
--X (desativado)
+-X desativado
      
 
 

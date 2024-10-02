@@ -18,28 +18,28 @@ construido com codigos HTMl
 
 ### FORAM USADOS COMANDOS
 - body
-div
-h
-nav
-ul
-li
-a
+- div
+-  h
+- nav
+- ul
+- li
+- a
 que foram repetidos muitas vezes.
 
 ---
 
 ### O CODIGO PODE SER ADAPTADO PARA VARIAS FUNÇÕES COMO:
--escolas
--hospitais
--estabelecimentos de comercio...
+- escolas
+- hospitais
+- estabelecimentos de comercio...
 
 ---
 
 ### MEIOS DE COMUNICAÇÃO
--n°: 46 994112332
--facebook
--instagram
--X desativado
+- n°: 46 994112332
+- facebook
+- instagram
+- X desativado
      
 
 

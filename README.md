@@ -24,7 +24,6 @@ construido com codigos HTMl
 - ul
 - li
 - a
-que foram repetidos muitas vezes.
 
 ---
 

@@ -1,4 +1,42 @@
 # presottoprodutoss in.html
-o formulario 1 é sobre um restaurante de classe alta, tive dificuldade em ter ideias para escrever as caracteristicas, por falta de criatividade, foi muito trabalhoso por ter que repetir todos os codigos muitas vezes.
+o projeto é sobre uma comanda de restaurante.
+foi organizado de uma forma de simples e facil acesso para modificações.
+esta disponivel para vendas, por apenas R$50,99.
+foi feito por apenas uma pessoa com o intuito de ajudar pequenas empresas e produtores rurais.
+construido com codigos HTMl
 
-o formulario 2 é sobre um restaurande de classe baixa, esse foi um pouco mais facil porque é mais comum, e mais basico 
+
+*CARACTERISTICAS 
+-nome
+-faixa de idade
+-caracteristicas comuns
+-caracteristicas ruims
+-meios de comunicação
+
+*FORAM USADOS COMANDOS
+<body>
+<div>
+<h>
+<nav>
+<ul>
+<li>
+<a>
+que foram repetidos muitas vezes.
+
+*O CODIGO PODE SER ADAPTADO PARA VARIAS FUNÇÕES COMO:
+-escolas
+-hospitais
+-estabelecimentos de comercio...
+
+*MEIOS DE COMUNICAÇÃO
+-n°: 46 994112332
+-facebook
+-instagram
+-X (desativado)
+     
+
+
+
+
+
+

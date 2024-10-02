@@ -26,12 +26,16 @@ li
 a
 que foram repetidos muitas vezes.
 
-*O CODIGO PODE SER ADAPTADO PARA VARIAS FUNÇÕES COMO:
+---
+
+### O CODIGO PODE SER ADAPTADO PARA VARIAS FUNÇÕES COMO:
 -escolas
 -hospitais
 -estabelecimentos de comercio...
 
-*MEIOS DE COMUNICAÇÃO
+---
+
+### MEIOS DE COMUNICAÇÃO
 -n°: 46 994112332
 -facebook
 -instagram
